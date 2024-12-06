@@ -2,7 +2,6 @@ const listaAlunos =  require('./alunos')
 const listaCurso = require('./cursos')
 
 const getListaCursos = function(){
-    let listaCurso = curso
     let lista = []
     let curso = {}
     let status = false
